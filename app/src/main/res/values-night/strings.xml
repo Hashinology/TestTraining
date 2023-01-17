@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username">Username</string>
+    <string name="pin">Pin</string>
+    <string name="accountNum">Account Num</string>
+    <string name="submit">Submit</string>
+</resources>
